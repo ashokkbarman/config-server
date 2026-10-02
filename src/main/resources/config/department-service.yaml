@@ -10,3 +10,4 @@ management:
   tracing:
     sampling:
       probability: 1.0
+      defaultZone: http://localhost:8761/eureka/  
